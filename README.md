@@ -3,4 +3,7 @@ Convolutional neural network implemented in pytorch achieving a 93.25% test accu
 
 
 # Environment
+Python 3.10.4
+Anaconda3-2022.10
+JupyterNotebook
 Colab
