@@ -1,4 +1,4 @@
-# EMNIST_CNN_MODEL
+# Alphabet Recognition Model
 Convolutional neural network implemented in pytorch achieving a 93.25% test accuracy on the EMNIST dataset.
 
 
